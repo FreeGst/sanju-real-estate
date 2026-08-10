@@ -80,9 +80,6 @@ export const Navbar: React.FC = () => {
                 <Building2 className="w-6 h-6" />
                 <span>magicbricks</span>
               </div>
-              <span className="hidden sm:inline-block text-[10px] font-semibold tracking-wider text-red-600 uppercase bg-red-50 border border-red-200 px-1.5 py-0.5 rounded">
-                AI Powered
-              </span>
             </button>
 
             {/* City Dropdown Selector */}
