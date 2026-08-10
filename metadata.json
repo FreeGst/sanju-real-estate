@@ -1,0 +1,6 @@
+{
+  "name": "MagicBricks Real Estate Platform",
+  "description": "Full-stack real estate marketplace for buying, renting, and selling residential & commercial properties with AI valuation and locality insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
